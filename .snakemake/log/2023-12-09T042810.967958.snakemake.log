@@ -1,0 +1,7 @@
+Building DAG of jobs...
+Deleting results/winequality_red_heatmap.pdf
+Deleting results/winequality_white_heatmap.pdf
+Deleting results/winequality_red_corr_table.pdf
+Deleting results/winequality_white_corr_table.pdf
+Deleting profiling/report_red_wine.html
+Deleting profiling/report_white_wine.html
