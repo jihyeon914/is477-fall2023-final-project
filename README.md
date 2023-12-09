@@ -1,4 +1,7 @@
 # is477-fall2023-final-project: Wine Quality Analysis
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10314899.svg)](https://doi.org/10.5281/zenodo.10314899)
+
 Public repository for IS477 Fall 2023 final project
 
 ## Overview
