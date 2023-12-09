@@ -23,33 +23,7 @@
             "relation": "cites",
             "resource_type": "dataset"  
         }
-    ],
+    ]
 
-    "keywords": ["Cats", "Laser", "Behavior"],
-
-    "communities": [
-        {"identifier": "software-cats"}
-    ],
-
-    "grants": [{"id":"777541"}]
 }
 
-
-	
-creators	
-0	
-orcid	"0009-0000-1338-8081"
-name	"Park, Jihyeon"
-title	"Reproduction of: Retiring Adult - New Datasets for Fair Machine Learning (IS477)"
-license	"MIT License"
-related_identifiers	
-0	
-scheme	"doi"
-identifier	"https://doi.org/10.24432/C5XW20"
-relation	"cites"
-resource_type	"dataset"
-1	
-scheme	"url"
-identifier	"https://github.com/jihyeon914/is477-fall2023-final-project/releases/tag/v2"
-relation	"isSupplementedBy"
-resource_type	"workflow"
