@@ -2,8 +2,6 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10314899.svg)](https://doi.org/10.5281/zenodo.10314899)
 
-Public repository for IS477 Fall 2023 final project
-
 ## Overview
 
 The purpose of this public repository and the project is to reproduce the data respecting the transparency and reproducibility of the data and the analysis conducted by others. This project also explores the automation of data science workflows pipelines. 

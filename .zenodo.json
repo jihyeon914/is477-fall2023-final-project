@@ -5,11 +5,8 @@
             "name": "Park, Jihyeon"
         }
     ],
-
     "license": "AMIT License",
-
     "title": "Wine Quality Analysis",
-
     "related_identifiers": [
         {
             "scheme": "doi",
@@ -21,10 +18,8 @@
             "scheme": "url",
             "identifier": "https://github.com/jihyeon914/is477-fall2023-final-project/releases",
             "relation": "isSupplementedBy",
-            "resource_type": "workflow"  
+            "resource_type": "workflow"
         }
     ]
 }
-
-
 
