@@ -8,7 +8,7 @@
 
     "license": "AMIT License",
 
-    "title": "Red-Dot: ML-powered laser vector detection",
+    "title": "Wine Quality Analysis",
 
     "related_identifiers": [
         {
@@ -19,10 +19,12 @@
         },
         {
             "scheme": "url",
-            "identifier": "https://doi.org/10.24432/C56S3T",
-            "relation": "cites",
-            "resource_type": "dataset"  
+            "identifier": "https://github.com/jihyeon914/is477-fall2023-final-project/releases",
+            "relation": "isSupplementedBy",
+            "resource_type": "workflow"  
         }
     ]
 }
+
+
 
