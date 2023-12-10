@@ -15,8 +15,8 @@ plt.figure(figsize=(16, 12))
 sns.heatmap(red_corr, annot=True, cmap='coolwarm', vmin=-1, vmax=1, fmt='.2f', annot_kws={"size": 10})
 
 directory = 'results'
-if not os.path.exists(directory):
-    os.makedirs(directory)
+#if not os.path.exists(directory):
+#    os.makedirs(directory)
 
 red_heatmap_pdf_path = os.path.join(directory, 'winequality_red_heatmap.pdf')
 with PdfPages(red_heatmap_pdf_path) as pdf_red:

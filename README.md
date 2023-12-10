@@ -28,6 +28,10 @@ Below is the DAG for the Snakemake workflow:
 
 ## Reproducing
 
+Clone the GitHub repository to create a local copy of repository into user's computer.
+
+- Docker image: sarapark4/is477-fall2023:final-project
+
 To reproduce the workflow for the final project - wine quality dataset:
 
 ```

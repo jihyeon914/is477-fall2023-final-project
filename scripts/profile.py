@@ -9,8 +9,8 @@ profile_red = ProfileReport(winequality_red_df, title="Profiling Report - Red Wi
 profile_white = ProfileReport(winequality_white_df, title="Profiling Report - White Wine")
 
 directory = 'profiling'
-if not os.path.exists(directory):
-    os.makedirs(directory)
+#if not os.path.exists(directory):
+#    os.makedirs(directory)
 
 profile_red.to_file(os.path.join(directory, "report_red_wine.html"))
 profile_white.to_file(os.path.join(directory, "report_white_wine.html"))

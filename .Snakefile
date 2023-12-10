@@ -1,7 +1,8 @@
 rule prepare:
     output:
         "data/wine_quality/winequality-red.csv",
-        "data/wine_quality/winequality-white.csv"
+        "data/wine_quality/winequality-white.csv",
+        "data/wine_quality/winequality.names"
     shell:
         "python scripts/prepare_data.py"
         
@@ -9,7 +10,8 @@ rule prepare:
 rule profile:
     input:
         "data/wine_quality/winequality-red.csv",
-        "data/wine_quality/winequality-white.csv"
+        "data/wine_quality/winequality-white.csv",
+        "data/wine_quality/winequality.names"
     output:
         "profiling/report_red_wine.html",
         "profiling/report_white_wine.html"
@@ -20,7 +22,8 @@ rule profile:
 rule analyze:
     input:
         "data/wine_quality/winequality-red.csv",
-        "data/wine_quality/winequality-white.csv"
+        "data/wine_quality/winequality-white.csv",
+        "data/wine_quality/winequality.names"
     output:
         "results/winequality_red_heatmap.pdf",
         "results/winequality_white_heatmap.pdf",
