@@ -1,6 +1,9 @@
 # is477-fall2023-final-project: Wine Quality Analysis
 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10341529.svg)](https://doi.org/10.5281/zenodo.10341529)
+
+
 ## Overview
 
 The purpose of this public repository and the project is to reproduce the data respecting the transparency and reproducibility of the data and the analysis conducted by others. This project also explores the automation of data science workflows pipelines. 
