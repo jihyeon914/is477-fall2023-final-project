@@ -1,24 +1,21 @@
 {
+    "title": "Wine Quality Analysis",
+    "description":"is477-fall2023-final-project",
     "creators": [
         {
-            "orcid": "0009-0000-1338-8081",
-            "name": "Park, Jihyeon"
+            "name": "Park, Jihyeon",
+            "orcid": "0009-0000-1338-8081"
         }
     ],
-    "license": "AMIT License",
-    "title": "Wine Quality Analysis",
     "related_identifiers": [
         {
             "scheme": "doi",
             "identifier": "https://doi.org/10.24432/C56S3T",
             "relation": "cites",
             "resource_type": "dataset"
-        },
-        {
-            "scheme": "url",
-            "identifier": "https://github.com/jihyeon914/is477-fall2023-final-project/releases",
-            "relation": "isSupplementedBy",
-            "resource_type": "workflow"
         }
-    ]
+    ],
+    "access_right": "open",
+    "upload_type": "software",
+    "license": "MIT"
 }
