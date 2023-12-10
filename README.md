@@ -1,7 +1,7 @@
 # is477-fall2023-final-project: Wine Quality Analysis
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10341529.svg)](https://doi.org/10.5281/zenodo.10341529)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10341743.svg)](https://doi.org/10.5281/zenodo.10341743)
 
 
 ## Overview
